@@ -18,7 +18,7 @@ Configuration files for vendor/chip/board to follow below structure:
 * kvh2xml.h: Defines key-values used in ACDB data file.
 
 ## Build instructions
-
+.
 Refer meta-audioreach [README](https://github.com/Audioreach/meta-audioreach?tab=readme-ov-file#openembedded-build--development-process)
 for instructions to use audioreach-conf on OpenEmbedded system.
 
