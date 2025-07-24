@@ -4,7 +4,7 @@
 This repository aims to host configuration files read by various AudioReach components for different vendor/chipset/board.
 
 ## Directory structure
-
+.
 Configuration files for vendor/chip/board to follow below structure:
 ```
 ├── <vendor specific dir>
