@@ -14,7 +14,7 @@ Configuration files for vendor/chip/board to follow below structure:
         └── <board specific dir>
             ├── board config files
 ```
-### File description
+### File descriptionc
 * kvh2xml.h: Defines key-values used in ACDB data file.
 
 ## Build instructions
